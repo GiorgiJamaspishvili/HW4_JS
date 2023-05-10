@@ -72,3 +72,47 @@
 // }
 // array.reverse();
 
+
+
+// 6.
+
+
+
+
+
+
+
+// 7.
+// let array5 = [12, 25, 3, 6, 8, 14, 7, 23];
+// let newArray5 = array5.map( (x) => x / 3);
+// console.log(newArray5);
+
+
+// 8.
+// let languages = ['html', 'css', 'javascript', 'phyton', 'php'];
+// let newLang = languages.filter( (item) => item.length > 3);
+
+// console.log(newLang);
+
+
+// 9. ?
+// let words = ['Madrid', 'Rome', 'Milan', 'Berlin'];
+// let newWords = words.includes((item) => ('m') || ('M'));
+// console.log(newWords);
+
+
+// 10.
+// let arr1 = [1, 2];
+// let arr2 = [3, 4];
+// let arr3 = [5, 6];
+// let newArray = arr1.concat(arr2, arr3);
+// console.log(newArray);
+
+
+// 11.
+// let arr = [-1, -2, -3, 4].some((x) => x > 0);
+// console.log(arr);
+
+
+// 12.
+let array=[2,15,10,24];
