@@ -52,7 +52,7 @@
 
 
 
-// 4
+// 4. ???
 // let arr = [1, 2, 3, 4, 5];
 // arr.forEach(function(i){
 //     let sum = 0;
@@ -61,7 +61,7 @@
 // })
 
 
-// 5.
+// 5. ???
 // let x = 100;
 // x.reverse();
 
@@ -115,4 +115,6 @@
 
 
 // 12.
-let array=[2,15,10,24];
+// let array=[2,15,10,24];
+// let deleteElements = array.splice(2,1);
+// console.log(array);
